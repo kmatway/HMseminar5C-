@@ -1,0 +1,15 @@
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/obj/Debug/net7.0/Z38.csproj.AssemblyReference.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/obj/Debug/net7.0/Z38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/obj/Debug/net7.0/Z38.AssemblyInfoInputs.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/obj/Debug/net7.0/Z38.AssemblyInfo.cs
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/obj/Debug/net7.0/Z38.csproj.CoreCompileInputs.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/bin/Debug/net7.0/Z38
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/bin/Debug/net7.0/Z38.deps.json
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/bin/Debug/net7.0/Z38.runtimeconfig.json
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/bin/Debug/net7.0/Z38.dll
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/bin/Debug/net7.0/Z38.pdb
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/obj/Debug/net7.0/Z38.dll
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/obj/Debug/net7.0/refint/Z38.dll
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/obj/Debug/net7.0/Z38.pdb
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/obj/Debug/net7.0/Z38.genruntimeconfig.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar5C-/Z38/obj/Debug/net7.0/ref/Z38.dll
